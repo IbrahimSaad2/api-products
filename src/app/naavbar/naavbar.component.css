@@ -1,0 +1,9 @@
+nav .title{
+    font-weight: 600;
+}
+.list a{
+    color: #000000;
+}
+.active-link{
+    color: #000000;
+}
